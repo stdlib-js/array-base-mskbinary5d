@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-25)
+## Unreleased (2024-12-01)
 
 <section class="features">
 
@@ -34,7 +34,7 @@ This release closes the following issue:
 
 <details>
 
--   [`34ae5c9`](https://github.com/stdlib-js/stdlib/commit/34ae5c9570bf6428dc5bede92557ae56981554c2) - **feat:** add `array/base/mskbinary5d` [(#3198)](https://github.com/stdlib-js/stdlib/pull/3198) _(by Abhijit)_
+-   [`34ae5c9`](https://github.com/stdlib-js/stdlib/commit/34ae5c9570bf6428dc5bede92557ae56981554c2) - **feat:** add `array/base/mskbinary5d` [(#3198)](https://github.com/stdlib-js/stdlib/pull/3198) _(by Abhijit Raut)_
 
 </details>
 
@@ -48,7 +48,7 @@ This release closes the following issue:
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Abhijit
+-   Abhijit Raut
 
 </section>
 
